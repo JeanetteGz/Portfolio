@@ -1,15 +1,44 @@
 [
     {
-        "title": "ChatterGrape",
-        "imageSrc": "projects/project.png",
-        "description": "This is a project made to learn the latest languages by building an app.",
+        "title": "ChatterGrape🍇",
+        "imageSrc": "projects/project1.png",
+        "description": "ChatterGrape is a dynamic social media web application that empowers users with a seamless experience for social interaction. With user-friendly features, such as secure registration and login functionalities, the platform ensures a personalized space for each user. ",
         "skills": [
             "JavaScript",
             "HTML",
             "CSS",
-            "Bootstrap"
+            "Bootstrap",
+            "API"
         ],
         "demo": "https://jeanettegz.github.io/MicroBlogLite/",
         "source": "https://github.com/JeanetteGz/MicroBlogLite"
+    },
+    {
+        "title": "Clueless👚",
+        "imageSrc": "projects/project2.png",
+        "description": "Web application for individuals interested in fashion, organization, and saving time. Users can store images of their clothes, create outfits, and get weather forecasts for their area.",
+        "skills": [
+            "Python",
+            "JSX",
+            "React",
+            "CSS",
+            "FastAPI",
+            "MongoDB",
+            "Docker"
+        ],
+        "demo": "https://xanderrubio.gitlab.io/clueless/",
+        "source": "https://github.com/JeanetteGz/Clueless"
+    },
+    {
+        "title": "Espresso Elegance☕️",
+        "imageSrc": "projects/project3.png",
+        "description": "A chic digital coffee haven crafted solely with HTML and CSS. From login to checkout, this minimalist platform offers enthusiasts an intuitive journey. Track orders, accumulate rewards, and explore a menu designed for seamless beverage selection. The checkout page ensures a smooth, visually pleasing end to the coffee shopping experience. ☕✨.",
+        "skills": [
+            "HTML",
+            "CSS"
+
+        ],
+        "demo": "https://jeanettegz.github.io/CapstoneOne_Ecommerce/",
+        "source": "https://github.com/JeanetteGz/CapstoneOne_Ecommerce"
     }
 ]
