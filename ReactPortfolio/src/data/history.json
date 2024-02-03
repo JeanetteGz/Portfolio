@@ -1,0 +1,42 @@
+[
+    {
+        "role": "Gameplay Experience/QA Testing Intern",
+        "organisation": "Castix LLC",
+        "startDate": "June 2023",
+        "endDate": "September 2023",
+        "experiences": [
+            "Conducted quality assurance testing to ensure quality standards adherence for seamless user experience.",
+            "Collaborated closely with the development team, providing valuable feedback and bug reports for the iterative development process."
+        ]
+    },
+    {
+        "role": "Customer Service Representative",
+        "organisation": "Randstad",
+        "startDate": "March, 2022",
+        "endDate": "December, 2022",
+        "experiences": [
+            "Handling customer complaints and finding solutions resulting in a 15% decrease in customer complaints.",
+            "Improved the efficiency of customer service operations by 10% by maintaining accurate customer records."
+        ]
+    },
+    {
+        "role": "Data Entry Operator",
+        "organisation": "Sykes",
+        "startDate": "October 2021",
+        "endDate": "March 2022",
+        "experiences": [
+            "Entered and verified accurate customer or client information, resulting in a 99% error-free data entry rate.",
+            "Reduced data search time by 50% by maintaining a well-organized database."
+        ]
+    },
+    {
+        "role": "Technical Support Specialist",
+        "organisation": "Randstad",
+        "startDate": "February 2021",
+        "endDate": "October 2021",
+        "experiences": [
+            "Reduced issue resolution time by 50% by resolving hardware, software, and network issues.",
+            "Increased customer satisfaction rate by 50% by providing prompt and effective technical assistance."
+        ]
+    }
+]

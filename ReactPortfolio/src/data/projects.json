@@ -1,0 +1,15 @@
+[
+    {
+        "title": "ChatterGrape",
+        "imageSrc": "projects/project.png",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Bootstrap"
+        ],
+        "demo": "https://jeanettegz.github.io/MicroBlogLite/",
+        "source": "https://github.com/JeanetteGz/MicroBlogLite"
+    }
+]
