@@ -9,8 +9,7 @@ export const Hero = () => {
             <div className={styles.content}>
                 <h1 className={styles.title}>Hi, I'm Jeanette!</h1>
                 <p className={styles.description}>
-                    I'm a software developer  with experience using React and
-                    NodeJS. Reach out if you'd like to learn more!
+                    I'm a software engineer with experience in the frontend and the backend. I thrive on the challenges of crafting new things and constantly expanding my skill set. With a commitment to excellence, I aim to contribute impactful solutions and stay at the forefront of technology advancements.. 
                 </p>
                 <a href="mailto:yanette.cruzz@icloud.com" className={styles.contactBtn}>
                     Contact Me
