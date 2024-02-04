@@ -6,7 +6,7 @@ export const Navbar = () => {
     let [menuOpen, setMenuOpen] = useState(false);
     return (
         <nav className={styles.navbar}>
-            <a className={styles.title} href="/">Welcome!</a>
+            <a className={styles.title} href="/"></a>
             <div className={styles.menu}>
                 <img className={styles.menuBtn} src={menuOpen
                     ? getImageUrl("nav/closeIcon.png")
