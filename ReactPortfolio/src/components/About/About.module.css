@@ -9,6 +9,8 @@
     z-index: 1;
     margin-left: 10%;
     margin-right: 10%;
+    position: relative;
+    overflow: hidden;
 }
 
 .title {
@@ -19,6 +21,20 @@
     font-weight: 700;
     letter-spacing: 1.75px;
     text-transform: uppercase;
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeInUp 1s ease-in-out forwards;
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 .content {

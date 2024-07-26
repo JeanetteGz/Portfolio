@@ -46,6 +46,12 @@
     font-weight: 600;
     padding: 17px 26px;
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.contactBtn:hover {
+    background-color: var(--color-primary-dark);
+    box-shadow: 0 0 15px 5px var(--color-primary);
 }
 
 .heroImg {
@@ -53,7 +59,7 @@
     z-index: 1;
 
     animation-name: floating;
-    animation-duration: 3s;
+    animation-duration: 5s;
     animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
 }
@@ -64,7 +70,7 @@
     }
 
     50% {
-        transform: translate(0, 10px);
+        transform: translate(0, 15px);
     }
 
     100% {

@@ -1,5 +1,17 @@
 [
     {
+        "role": "Software Engineer Intern",
+        "organisation": "Inke",
+        "startDate": "May 2024",
+        "endDate": "Present",
+        "experiences": [
+            "Collaborate with a dynamic frontend team to design and develop the homepage and various other pages for Inke's social media platform, ensuring an engaging and user-friendly interface.",
+			"Utilize React to build interactive and efficient user interfaces, enhancing the platform's functionality and performance.",
+			"Integrate frontend components with backend systems to enable full-stack capabilities, ensuring smooth data flow and user interactions within the application.",
+			"Engage in QA testing processes to identify and resolve issues, ensuring high standards of performance, security, and usability for the platform."
+        ]
+    },
+    {
         "role": "Gameplay Experience/QA Testing Intern",
         "organisation": "Castix LLC",
         "startDate": "June 2023",
